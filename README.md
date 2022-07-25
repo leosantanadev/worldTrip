@@ -1,8 +1,4 @@
-# desafio06-reactJS-rocketseat
-
-# 💻 Sobre o desafio!
-[image](https://user-images.githubusercontent.com/82040303/180698799-de7cbc61-da95-44c0-a88e-44bb5b4442a5.png)
+# 💻 Desafio Rocketseat!
 
 
-Nesse desafio, ofi feita para treinar conceitos até então aprendidos em reactJS, onde teve dois objetivos principais. O primeiro foi desenvolver toda a interface usando como base o Chakra UI, e o outro, que devesse trabalhar o responsivo da aplicação. ( os dados presentes na aplicação estão apenas como exemplo, não foram explorados com tanto detalhe)
-
+Neste desafio tinhamos como objetivo montar um site informativo sobre alguns paises e o principal ponto de avaliação era criarmos o layout inteiro da nossa aplicação trabalhando responsividade em diferentes formatos de tela e utilizarmos o ChakraUI ( uma biblioteca com diversos componentes semi prontos porém nos permitindo estilizar-los, nós dando rapidez e flexibilidade ao criar o layout
